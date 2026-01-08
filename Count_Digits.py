@@ -4,4 +4,3 @@ while(n > 0):
     n //= 10
     count += 1
 print("Total Digits: ",count)
-
